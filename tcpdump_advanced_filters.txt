@@ -1,10 +1,6 @@
 tcpdump advanced filters
 ========================
 
-Sebastien Wains <sebastien -the at sign- wains -dot- be>
-http://www.wains.be
-
-$Id: tcpdump_advanced_filters.txt 36 2013-06-16 13:05:04Z sw $
 
 
 Notes :
